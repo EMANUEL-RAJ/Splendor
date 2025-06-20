@@ -285,3 +285,186 @@ novice_spells = [
         "prestige": 0
     },
 ]
+
+adept_spells = [
+    {
+        "tier": 2,
+        "cost": {FIRE: 5, EARTH: 3},
+        "affinity": AIR,
+        "prestige": 2
+    },
+    {
+        "tier": 2,
+        "cost": {ETHER: 1, FIRE: 4, EARTH: 2},
+        "affinity": AIR,
+        "prestige": 2
+    },
+    {
+        "tier": 2,
+        "cost": {ETHER: 6},
+        "affinity": ETHER,
+        "prestige": 3
+    },
+    {
+        "tier": 2,
+        "cost": {AIR: 4, WATER: 2, EARTH: 1},
+        "affinity": ETHER,
+        "prestige": 2
+    },
+    {
+        "tier": 2,
+        "cost": {AIR: 3, ETHER: 3, EARTH: 2},
+        "affinity": EARTH,
+        "prestige": 1
+    },
+    {
+        "tier": 2,
+        "cost": {FIRE: 5},
+        "affinity": AIR,
+        "prestige": 2
+    },
+    {
+        "tier": 2,
+        "cost": {ETHER: 3, FIRE: 2, EARTH: 2},
+        "affinity": AIR,
+        "prestige": 1
+    },
+    {
+        "tier": 2,
+        "cost": {EARTH: 6},
+        "affinity": EARTH,
+        "prestige": 3
+    },
+    {
+        "tier": 2,
+        "cost": {AIR: 3, ETHER: 2, FIRE: 3},
+        "affinity": ETHER,
+        "prestige": 1
+    },
+    {
+        "tier": 2,
+        "cost": {AIR: 5, WATER: 3},
+        "affinity": WATER,
+        "prestige": 2
+    },
+    {
+        "tier": 2,
+        "cost": {WATER: 2, ETHER: 3, EARTH: 3},
+        "affinity": WATER,
+        "prestige": 1
+    },
+    {
+        "tier": 2,
+        "cost": {AIR: 3, EARTH: 5},
+        "affinity": FIRE,
+        "prestige": 2
+    },
+    {
+        "tier": 2,
+        "cost": {AIR: 2, WATER: 2, ETHER: 2},
+        "affinity": EARTH,
+        "prestige": 1
+    },
+    {
+        "tier": 2,
+        "cost": {AIR: 1, WATER: 4, ETHER: 2},
+        "affinity": FIRE,
+        "prestige": 2
+    },
+    {
+        "tier": 2,
+        "cost": {AIR: 2, FIRE: 2, EARTH: 3},
+        "affinity": FIRE,
+        "prestige": 1
+    },
+    {
+        "tier": 2,
+        "cost": {AIR: 2, FIRE: 1, EARTH: 4},
+        "affinity": WATER,
+        "prestige": 2
+    },
+    {
+        "tier": 2,
+        "cost": {WATER: 1, ETHER: 4, FIRE: 2},
+        "affinity": EARTH,
+        "prestige": 2
+    },
+    {
+        "tier": 2,
+        "cost": {WATER: 2, ETHER: 2, FIRE: 3},
+        "affinity": WATER,
+        "prestige": 1
+    },
+    {
+        "tier": 2,
+        "cost": {EARTH: 5},
+        "affinity": FIRE,
+        "prestige": 2
+    },
+    {
+        "tier": 2,
+        "cost": {ETHER: 5, FIRE: 3},
+        "affinity": EARTH,
+        "prestige": 2
+    },
+    {
+        "tier": 2,
+        "cost": {WATER: 3, FIRE: 2, EARTH: 3},
+        "affinity": FIRE,
+        "prestige": 1
+    },
+    {
+        "tier": 2,
+        "cost": {AIR: 2, WATER: 5, EARTH: 2},
+        "affinity": ETHER,
+        "prestige": 1
+    },
+    {
+        "tier": 2,
+        "cost": {FIRE: 6},
+        "affinity": FIRE,
+        "prestige": 3
+    },
+    {
+        "tier": 2,
+        "cost": {WATER: 6},
+        "affinity": WATER,
+        "prestige": 3
+    },
+    {
+        "tier": 2,
+        "cost": {WATER: 5},
+        "affinity": WATER,
+        "prestige": 2
+    },
+    {
+        "tier": 2,
+        "cost": {WATER: 5, ETHER: 3},
+        "affinity": ETHER,
+        "prestige": 2
+    },
+    {
+        "tier": 2,
+        "cost": {ETHER: 5},
+        "affinity": ETHER,
+        "prestige": 2
+    },
+    {
+        "tier": 2,
+        "cost": {AIR: 5},
+        "affinity": EARTH,
+        "prestige": 2
+    },
+    {
+        "tier": 2,
+        "cost": {AIR: 6},
+        "affinity": AIR,
+        "prestige": 3
+    },
+    {
+        "tier": 2,
+        "cost": {AIR: 2, WATER: 3, FIRE: 3},
+        "affinity": AIR,
+        "prestige": 1
+    },
+]
