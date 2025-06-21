@@ -1,4 +1,4 @@
-from data.constants import ETHER, WATER, FIRE, AIR, EARTH
+from src.constants import ETHER, WATER, FIRE, AIR, EARTH
 
 elder_mages = [
     {
